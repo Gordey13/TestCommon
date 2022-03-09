@@ -1,3 +1,5 @@
+package tests_github;
+
 import io.restassured.http.ContentType;
 import org.junit.Test;
 
